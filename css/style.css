@@ -7576,8 +7576,9 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   width: 100%;
   position: relative;
+  padding-top: 4em;
   padding-bottom: 4em;
-  height: 650px;
+  height: 900px;
   z-index: 10;
   background: #4fd2c2;
   overflow: hidden;
